@@ -28,18 +28,18 @@ __Michigan State University__
 <h6><i>Classes</i></h6>
 
 - CSE325 Computer Systems (C++)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Architecture
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Operating Systems
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Concurrency and Networking
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Computer and Network Security
+    - Architecture
+    - Operating Systems
+    - Concurrency and Networking
+    - Computer and Network Security
 - CSE335 Object-oriented Software Development (C++)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Inheritance and Polymorphism
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- UML Class Modeling
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Factory, Design, Visitor, Adapter, Observer, Composite, and Interator Patterns
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Memory Management
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- CRC Cards and Interfaces
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Defense Programming and Test-driven Development
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Software Engineering Basics
+    - Inheritance and Polymorphism
+    - UML Class Modeling
+    - Factory, Design, Visitor, Adapter, Observer, Composite, and Interator Patterns
+    - Memory Management
+    - CRC Cards and Interfaces
+    - Defense Programming and Test-driven Development
+    - Software Engineering Basics
 
 <h6><i>Tools & Technologies</i></h6>
 
