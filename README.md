@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 I'm Allie Ianello!
 
 <i>Currently:</i>
-- BS Computer Science Engineering student at Michigan State University
-- Intern at SLYD
+- Michigan State University BS Computer Science Engineering Alumni
+- Business Analyst at Nello Corporation
 
